@@ -1,0 +1,19 @@
+body{
+    color: red;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: aqua;
+}
+
+#lib-component{
+    color: gray;
+}
+
+.div-content{
+    color: green;
+}
