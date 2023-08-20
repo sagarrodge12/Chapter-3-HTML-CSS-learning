@@ -1,19 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
 body{
-    color: red;
-}
-
-h1{
-    color: blueviolet;
-}
-
-h2{
-    color: aqua;
-}
-
-#lib-component{
-    color: gray;
-}
-
-.div-content{
-    color: green;
+    font-family: 'Quicksand', sans-serif;
 }
