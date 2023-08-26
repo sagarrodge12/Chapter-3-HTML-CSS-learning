@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
 
-
+/** Color palate always use like this define color here **/
 :root{
     --primary-color : #4338ca;
 }
@@ -73,8 +73,7 @@ hr{
 }
 .navigation .nav-brand{
     font-weight: bold;
-   
-}
+   }
 
 .navigation .nav-pills{
     text-align: right;
