@@ -56,3 +56,30 @@ hr{
     display: inline;
     padding: 0rem 1rem;
 }
+
+
+/** Navigation **/
+
+.navigation{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.navigation .link{
+    color: white;
+}
+.navigation .nav-brand{
+    font-weight: bold;
+   
+}
+
+.navigation .nav-pills{
+    text-align: right;
+}
+
+.navigation .link-active{
+    font-weight: bold;
+}
