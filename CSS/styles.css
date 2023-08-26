@@ -4,6 +4,7 @@
 :root {
     --primary-color: #4338ca;
     --darkgray-color: #6b7280;
+    --offwhite-color: #f3f4f6;
 }
 
 body {
@@ -105,4 +106,14 @@ hero {
 
 .hero .hero-heading .hero-heading-inverted {
     color: var(--primary-color);
+}
+
+.section h1{
+    text-align: center;
+    padding: 0.2rem;
+}
+
+.section .offwhite-section{
+    background-color: var(--offwhite-color);
+    border-radius: 1rem;
 }
