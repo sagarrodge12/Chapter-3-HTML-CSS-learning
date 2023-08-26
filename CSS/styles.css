@@ -3,6 +3,7 @@
 /** Color palate always use like this define color here **/
 :root{
     --primary-color : #4338ca;
+    --darkgray-color : #6b7280;
 }
 
 body{
@@ -81,4 +82,25 @@ hr{
 
 .navigation .link-active{
     font-weight: bold;
+}
+
+/** Header **/
+
+hero{
+    padding: 2rem;
+}
+
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    padding: 1rem;
+    color: var(--darkgray-color);
+    text-align: center;
+}
+.hero .hero-heading .hero-heading-inverted{
+    color: var(--primary-color);
 }
